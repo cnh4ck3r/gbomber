@@ -11,10 +11,10 @@ Sign in to your Gmail
 Visit https://www.google.com/settings/security/lesssecureapps
 Turn on Less Secure App Logins
 ```
-Facebook: https://facebook.com/cnh4ck3r
-Instagram: https://Instagram.com/cnh4ck3r
-Twitter: https://twitter.com/cnh4ck3r
-LinkedIn: https://linkedin.com/in/cnh4ck3r
+Facebook: https://facebook.com/cnh4ck3r <br/>
+Instagram: https://Instagram.com/cnh4ck3r <br/>
+Twitter: https://twitter.com/cnh4ck3r <br/>
+LinkedIn: https://linkedin.com/in/cnh4ck3r <br/>
 
 #### Termux or Terminal
 ```
